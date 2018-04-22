@@ -1,4 +1,4 @@
-syllabus <img src="https://slu-soc5650.github.io/images/logo.png" align="right" />
+syllabus <img src="https://slu-soc5050.github.io/images/logo.png" align="right" />
 ===========================================================
 [![](https://img.shields.io/badge/semester-fall%202018-orange.svg)](https://github.com/slu-soc5050/syllabus)
 [![](https://img.shields.io/badge/release-draft-red.svg)](https://github.com/slu-soc5050/syllabus)
