@@ -5,7 +5,7 @@ syllabus <img src="https://slu-soc5050.github.io/images/logo.png" align="right" 
 [![](https://img.shields.io/github/release/slu-soc5050/syllabus.svg?label=version)](https://github.com/slu-soc5050/syllabus/releases)
 [![](https://img.shields.io/github/last-commit/slu-soc5050/syllabus.svg)](https://github.com/slu-soc5050/syllabus/commits/master)
 
-This repository contains the files needed for building (`sources` branch) and serving (`master` branch) the syllabus for Chris's sections of SOC 4015 and SOC 5050.
+This repository contains the files needed for building and serving (from `docs/`) the syllabus for Chris's sections of SOC 4015 and SOC 5050.
 
 ## About SOC 4015 and 5050: Quantitative Analysis
 ### Course Description
