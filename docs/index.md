@@ -1,7 +1,7 @@
 ---
 title: "SOC 4015 & 5050: Quantitative Analysis"
 author: "Christopher Prener, Ph.D."
-date: "2018-05-01"
+date: "2018-05-02"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -13,9 +13,11 @@ description: "This is the syllabus and reading list for Chris's sections of SOC 
 
 # Basics {-}
 
-<div class="rmdwarning">
-<p>This is the <strong>draft</strong> syllabus for <strong>Fall 2018</strong>. Changes should expected before the release of the syllabus prior to the first day of class. This will occur in mid August.</p>
-</div>
+\begin{rmdwarning}
+This is the \textbf{draft} syllabus for \textbf{Fall 2018}. Changes
+should expected before the release of the syllabus prior to the first
+day of class. This will occur in mid August.
+\end{rmdwarning}
 
 ### Course Meetings {-}
 
