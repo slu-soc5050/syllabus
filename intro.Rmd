@@ -10,6 +10,12 @@
 
 This course provides an introduction to applied statistical analysis for both undergraduate and graduate students with an emphasis placed on statistical techniques that are most common in the sociological literature. The statistical techniques introduced include measures of central tendency and dispersion as well as measures of bi-variate association. Multivariate statistical analyses are also introduced along with essential skills for cleaning data, creating plots, and reporting results. While the examples may be specific to the social sciences, the theories and skills that are covered are broadly applicable across academic disciplines.
 
+## Two Courses, One Goal
+
+Students will quickly noticed that this course has two numbers. SOC 4015 is the undergraduate section, and SOC 5050 is the graduate section. This quickly leads to anxiety for some students, who worry they have signed up for the wrong class (ocasionally this is not misplaced anxiety!) or who worry that they are taking a class that is not appropriate for their skill level. This class is designed for social science students with little to no background in statistics `R`, and scientific computing more generally. For those students, the level is largely irrelevent - undergraduate and graduate students who have not been exposed to these ideas need to cover the same material.
+
+Graduate students who take this class will have to do some additional work - the final project is more rigorus than the project that undergraduates will complete. Otherwise, the course is the same because what content students need is largely the same as well.
+
 ## Course Objectives
 
 This course has four intertwined objectives. After completing the
