@@ -1,6 +1,31 @@
-# Weekly Schedule
+# Lecture Schedule
 
 Select a lecture from the menu to see details about topics, readings, and assignments. Additional notes and links to course materials are available through the [course website](https://slu-soc5050.github.io), which has dedicated pages for each lecture. Links to these pages are included on each lecture's reading list entry. 
+
+The primary readings will be referred to with an abbreviation each time they appear in the reading list:
+
+
+Table: (\#tab:unnamed-chunk-1)SOC 4015 & 5050 Primary Readings
+
+Abbreviation   Citation                                                                                                                          
+-------------  ----------------------------------------------------------------------------------------------------------------------------------
+OpenIntro      Diez, D. M., Barr, C. D., & Cetinkaya-Rundel, M. (2012). OpenIntro Statistics. CreateSpace.                                       
+R4DS           Wickham, H., & Grolemund, G. (2016). R for data science: import, tidy, transform, visualize, and model data. O'Reilly Media, Inc. 
+SSDS           Prener, C. (2018). Sociospatial Data Science.                                                                                     
+Wheelan        Wheelan, C. (2013). Naked statistics: Stripping the dread from the data. WW Norton & Company.                                     
+
+<br>
+There will also be a link that refers to where a particular reading can be located:
+
+
+Table: (\#tab:unnamed-chunk-2)Reading Locations
+
+Abbreviation   Citation            
+-------------  --------------------
+ER             Electronic Reserves 
+GH             GitHub              
+Link           Website             
+PL             Pius Library        
 
 ## Course Preview
 

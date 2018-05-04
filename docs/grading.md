@@ -6,10 +6,9 @@ Your grade for this course will consist of a number of different assignments on 
 
 ### Attendance and Participation
 
-\begin{rmdtip}
-Attendance and participation are worth \textbf{10\%} of your final
-grade.
-\end{rmdtip}
+<div class="rmdtip">
+<p>Attendance and participation are worth <strong>10%</strong> of your final grade.</p>
+</div>
 
 Both attendance and participation are critically important aspects of this class. The class participation grade will be based on (a) attendance, (b) level of engagement during lectures and labs, (c) level of engagement on Slack, and (d) the completion of other exercises including "entry" and "exit" tickets, the student information sheet, a pre-test, and an end of the semester course evaluation. 
 
@@ -19,9 +18,9 @@ I provide the final number of points earned for each half of the course. If you 
 
 ### Lecture Preps
 
-\begin{rmdtip}
-Lecture preps are worth \textbf{6\%} of your final grade.
-\end{rmdtip}
+<div class="rmdtip">
+<p>Lecture preps are worth <strong>6%</strong> of your final grade.</p>
+</div>
 
 Before each course meeting, you will need to complete all assigned readings. For a part of these readings, you will also need to complete a textbook exercise. These prep exercises are designed to get you ready for the week's material by exposing you to basic, guided examples before class begins. Instructions for the lecture preps will be posted in the lecture repositories on [**GitHub**](https://github.com/slu-soc5050) and will be linked to from the lecture pages on the [**course website**](https://slu-soc5050.github.io/). The instructions will also detail the deliverables to be submitted to demonstrate completion of each assignment.
 
@@ -31,9 +30,9 @@ There will be a total of fifteen lecture preps over the course of the semester, 
 
 ### Lab Exercises
 
-\begin{rmdtip}
-Labs are worth \textbf{15\%} of your final grade.
-\end{rmdtip}
+<div class="rmdtip">
+<p>Labs are worth <strong>15%</strong> of your final grade.</p>
+</div>
 
 Each course meeting (except the first) will include time dedicated to practicing the techniques and applying the theories described during the day's lecture. These exercises will give you an opportunity to practice skills that correspond with the first four course objectives. Instructions for the labs will be posted in the lecture repositories on [**GitHub**](https://github.com/slu-soc5050) and will be linked to from the lecture pages on the [**course website**](https://slu-soc5050.github.io/). The instructions will also detail the deliverables to be submitted to demonstrate completion of each assignment. Replication files are also provided in the lecture repositories on [**GitHub**](https://github.com/slu-soc5050).
 
@@ -43,9 +42,9 @@ There will be a total of fifteen lab exercises over the course of the semester, 
 
 ### Problem Sets
 
-\begin{rmdtip}
-Problem sets are worth \textbf{28\%} of your final grade.
-\end{rmdtip}
+<div class="rmdtip">
+<p>Problem sets are worth <strong>28%</strong> of your final grade.</p>
+</div>
 
 Problem sets will require students to draw on a variety of skills, including cleaning data, performing statistical analyses, producing plots, and reporting results. They are designed to assess your progress with the first four course objectives. Instructions for the problem sets will be posted in the lecture repositories on [**GitHub**](https://github.com/slu-soc5050) and will be linked to from the lecture pages on the [**course website**](https://slu-soc5050.github.io/). The instructions will also detail the deliverables to be submitted to demonstrate completion of each assignment. Replication files that illustrate my approach to each problem set will be posted on [**GitHub**](https://github.com/slu-soc5050) in the [`Replications`](https://github.com/slu-soc5050/Replications) repository once all students have submitted their problem sets.
 
@@ -53,12 +52,9 @@ There will be a total of eight problem sets over the course of the semester, eac
 
 ### Final Project
 
-\begin{rmdtip}
-The final project is worth, in total, \textbf{41\%} of your final grade.
-Depending on your section, it will be broken down into a variety of
-assignments, each of which has their own point value. See below for
-details.
-\end{rmdtip}
+<div class="rmdtip">
+<p>The final project is worth, in total, <strong>41%</strong> of your final grade. Depending on your section, it will be broken down into a variety of assignments, each of which has their own point value. See below for details.</p>
+</div>
 
 The final project corresponds with the fourth learning outcome. It will be organized slightly differently depending on which section you are enrolled in. Specific instructions will be provided in the [**final project guide**](https://slu-soc5050.github.io/finalGuide), and updates will be posted on the [**course website's**](https://slu-soc5050.github.io/) [**final project page**](https://slu-soc5050.github.io/final-project). 
 
@@ -78,53 +74,39 @@ Deliverables for each waypoint are described in the [**final project guide**](ht
 #### SOC 4015
 If you are enrolled in SOC 4015, you will need to pick a continuous variable from the 2012 General Social Survey to use as your main study variable. You will then clean the data and conduct an analysis of this variable using a variety of statistical tests covered this semester. Your final results will be presented as a PowerPoint presentation during finals week.
 
-\begin{table}
 
-\caption{(\#tab:unnamed-chunk-6)SOC 4015 Final Project Breakdown}
-\centering
-\begin{tabular}[t]{llll}
-\toprule
-Assignment & Points & Quantity & Total\\
-\midrule
-Memo & 20 pts & x1 & 20 pts\\
-Waypoints & 20 pts & x6 & 120 pts\\
-Draft Code \& Docs & 20 pts & x1 & 20 pts\\
-Draft Slides & 20 pts & x1 & 20 pts\\
-Final Code \& Docs & 100 pts & x1 & 100 pts\\
-\addlinespace
-Final Slides & 100 pts & x1 & 100 pts\\
-Final Presentation & 30 pts & x1 & 30 pts\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-6)SOC 4015 Final Project Breakdown
+
+Assignment           Points    Quantity   Total   
+-------------------  --------  ---------  --------
+Memo                 20 pts    x1         20 pts  
+Waypoints            20 pts    x6         120 pts 
+Draft Code & Docs    20 pts    x1         20 pts  
+Draft Slides         20 pts    x1         20 pts  
+Final Code & Docs    100 pts   x1         100 pts 
+Final Slides         100 pts   x1         100 pts 
+Final Presentation   30 pts    x1         30 pts  
 
 ##### SOC 5050
 If you are enrolled in SOC 5050, you will need to identify an appropriate data set that contains a continuous variable that you can use as your main study variable. You will then clean the data and conduct an analysis of this variable using a variety of statistical tests covered this semester. Your final results will be presented as a PowerPoint presentation during finals week. 
 
 You will also have to produce a 5,000 word final journal article manuscript that places your project in the relevant social science literature, presents your data and methods, and provides a summary and discussion of your results. An annotated bibliography will be due at Lecture-07 (**October 8^th^**) and the draft paper will be due at Lecture-12 (**Novemeber 12^th^**; note that this is one week *after* the other draft materials).
 
-\begin{table}
 
-\caption{(\#tab:unnamed-chunk-7)SOC 5050 Final Project Breakdown}
-\centering
-\begin{tabular}[t]{llll}
-\toprule
-Assignment & Points & Quantity & Total\\
-\midrule
-Memo & 10 pts & x1 & 10 pts\\
-Waypoints & 10 pts & x6 & 60 pts\\
-Annotated Bibliography & 15 pts & x1 & 15 pts\\
-Draft Code \& Docs & 15 pts & x1 & 15 pts\\
-Draft Slides & 15 pts & x1 & 15 pts\\
-\addlinespace
-Draft Paper & 15 pts & x1 & 15 pts\\
-Final Code \& Docs & 50 pts & x1 & 50 pts\\
-Final Slides & 100 pts & x1 & 100 pts\\
-Final Presentation & 30 pts & x1 & 30 pts\\
-Final Paper & 100 pts & x1 & 100 pts\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-7)SOC 5050 Final Project Breakdown
+
+Assignment               Points    Quantity   Total   
+-----------------------  --------  ---------  --------
+Memo                     10 pts    x1         10 pts  
+Waypoints                10 pts    x6         60 pts  
+Annotated Bibliography   15 pts    x1         15 pts  
+Draft Code & Docs        15 pts    x1         15 pts  
+Draft Slides             15 pts    x1         15 pts  
+Draft Paper              15 pts    x1         15 pts  
+Final Code & Docs        50 pts    x1         50 pts  
+Final Slides             100 pts   x1         100 pts 
+Final Presentation       30 pts    x1         30 pts  
+Final Paper              100 pts   x1         100 pts 
 
 ## Submission and Late Work
 
@@ -156,63 +138,55 @@ All grades that use a “check” system (the lecture preps, labs, and some aspe
 
 I use a point system for calculating grades. The following table gives the weighting and final point totals for all assignments for this course:
 
-\begin{table}
 
-\caption{(\#tab:unnamed-chunk-8)SOC 4015 & 5050 Points Breakdown}
-\centering
-\begin{tabular}[t]{lllll}
-\toprule
-Assignment & Points & Quantity & Total & Percent\\
-\midrule
-Participation & 50 pts & x2 & 100 pts & 10\%\\
-Lecture Preps & 4 pts & x15 & 60 pts & 6\%\\
-Labs & 10 pts & x5 & 150 pts & 15\%\\
-Problem Sets & 35 pts & x8 & 280 pts & 28\%\\
-Final Project & 410 pts & x1 & 410 pts & 41\%\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-8)SOC 4015 & 5050 Points Breakdown
+
+Assignment      Points    Quantity   Total     Percent 
+--------------  --------  ---------  --------  --------
+Participation   50 pts    x2         100 pts   10%     
+Lecture Preps   4 pts     x15        60 pts    6%      
+Labs            10 pts    x5         150 pts   15%     
+Problem Sets    35 pts    x8         280 pts   28%     
+Final Project   410 pts   x1         410 pts   41%     
 
 All feedback will include grades that represent number of points earned. If you want to know your percentage on a particular assignment, divide the number of points earned by the number of points possible and then multiply it by 100.
 
 Final grades will be calculated by taking the sum of all points earned and dividing it by the total number of points possible (1,000). This will be multiplied by 100 and then converted to a letter grade using the
 following table:
 
-\begin{table}
-\caption{(\#tab:unnamed-chunk-9)Course Grading Scale}
 
-\centering
-\begin{tabular}[t]{lll}
-\toprule
-GPA & Letter & Percent\\
-\midrule
-4.0 & A & 93.0\% - 100\%\\
-3.7 & A- & 90.0\% - 92.9\%\\
-3.3 & B+ & 87.0\% - 89.9\%\\
-3.0 & B & 83.0\% - 86.9\%\\
-2.7 & B- & 80.0\% - 82.9\%\\
-\bottomrule
-\end{tabular}
-\centering
-\begin{tabular}[t]{lll}
-\toprule
-GPA & Letter & Percent\\
-\midrule
-2.3 & C+ & 77.0\% - 79.9\%\\
-2.0 & C & 73.0\% - 76.9\%\\
-1.7 & C- & 70.0\% - 72.9\%\\
-1.0 & D & 63.0\% - 69.9\%\\
-0.0 & F & < 63.0\%\\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="kable_wrapper">
+<caption>(\#tab:unnamed-chunk-9)Course Grading Scale</caption>
+<tbody>
+  <tr>
+   <td> 
+
+GPA   Letter   Percent       
+----  -------  --------------
+4.0   A        93.0% - 100%  
+3.7   A-       90.0% - 92.9% 
+3.3   B+       87.0% - 89.9% 
+3.0   B        83.0% - 86.9% 
+2.7   B-       80.0% - 82.9% 
+
+ </td>
+   <td> 
+
+GPA   Letter   Percent       
+----  -------  --------------
+2.3   C+       77.0% - 79.9% 
+2.0   C        73.0% - 76.9% 
+1.7   C-       70.0% - 72.9% 
+1.0   D        63.0% - 69.9% 
+0.0   F        < 63.0%       
+
+ </td>
+  </tr>
+</tbody>
+</table>
 
 No chances will be given for revisions of poor grades. Incomplete grades will be given upon request only if you have a "C" average and have completed at least two-thirds of the assignments. You should note that incomplete grades must be rectified by the specified deadline or they convert to an "F".
 
-\begin{rmdwarning}
-No chances will be given for revisions of poor grades. Incomplete grades
-will be given upon request only if you have a ``C'' average and have
-completed at least two-thirds of the assignments. You should note that
-incomplete grades must be rectified by the specified deadline or they
-convert to an ``F''.
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>No chances will be given for revisions of poor grades. Incomplete grades will be given upon request only if you have a &quot;C&quot; average and have completed at least two-thirds of the assignments. You should note that incomplete grades must be rectified by the specified deadline or they convert to an &quot;F&quot;.</p>
+</div>

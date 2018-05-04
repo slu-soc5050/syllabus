@@ -21,22 +21,13 @@ Graduate students who take this class will have to do some additional work - the
 This course has four intertwined objectives. After completing the
 course, students will be able to:
 
-1.  *Fundamentals of inferential statistics*: Describe the use of
-    various statistical tests, their requirements and assumptions, and
-    their interpretation; execute these tests both by hand and
-    programmatically using `R`.
+1.  *Fundamentals of inferential statistics*: Describe the use of various statistical tests, their requirements and assumptions, and their interpretation; execute these tests both by hand and programmatically using `R`.
 
-2.  *Fundamentals of data analysis*: Perform basic data cleaning and
-    analysis tasks programmatically using `R` in ways that support high
-    quality documentation and replication.
+2.  *Fundamentals of data analysis*: Perform basic data cleaning and analysis tasks programmatically using `R` in ways that support high quality documentation and replication.
 
-3.  *Fundamentals of data visualization*: Create and present publication
-    quality plots programmatically using `R` and `ggplot2`.
+3.  *Fundamentals of data visualization*: Create and present publication quality plots programmatically using `R` and `ggplot2`.
 
-4.  *Quantitative research synthesis*: Plan, implement (using `R`), and
-    present (using LaTeX and the presentation software of your
-    choice) a research project that uses linear regression to answer a
-    research question.
+4.  *Quantitative research synthesis*: Plan, implement (using `R`), and present (using LaTeX and the presentation software of your choice) a research project that uses linear regression to answer a research question.
     
 ## Core Resources
 
