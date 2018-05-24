@@ -188,5 +188,5 @@ GPA   Letter   Percent
 No chances will be given for revisions of poor grades. Incomplete grades will be given upon request only if you have a "C" average and have completed at least two-thirds of the assignments. You should note that incomplete grades must be rectified by the specified deadline or they convert to an "F".
 
 <div class="rmdwarning">
-<p>No chances will be given for revisions of poor grades. Incomplete grades will be given upon request only if you have a &quot;C&quot; average and have completed at least two-thirds of the assignments. You should note that incomplete grades must be rectified by the specified deadline or they convert to an &quot;F&quot;.</p>
+<p>No chances will be given for revisions of poor grades. Incomplete grades will be given upon request only if you have a “C” average and have completed at least two-thirds of the assignments. You should note that incomplete grades must be rectified by the specified deadline or they convert to an “F”.</p>
 </div>

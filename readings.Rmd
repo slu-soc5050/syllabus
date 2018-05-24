@@ -33,7 +33,7 @@ knitr::kable(
 )
 ```
 
-## Course Preview
+## Course Preview {-}
 
 <div class="button"><a href="https://slu-soc5050.github.io/course-preview" target="_blank">View on Course Website</a></div>
 
@@ -65,7 +65,7 @@ knitr::kable(
 * Lecture Prep 01 - Course Onboarding
 * Lecture Prep 02 - Course Preview
 
-## Lecture-01: Course Introduction
+## Lecture-01: Course Introduction {-}
 
 <div class="button"><a href="https://slu-soc5050.github.io/lecture-01" target="_blank">View on Course Website</a></div>
 
@@ -98,14 +98,13 @@ knitr::kable(
 
 #### Due Before Class {-}
 
-* Lecture Prep 01 - Course Onboarding
-* Lecture Prep 02 - Course Preview
+* *From Prior Week:* Lecture Prep 01 and Lecture Prep 02
 
 #### Due Before *Next* Class {-}
 
 * *none*
 
-## Lecture-02: Working with Data
+## Lecture-02: Working with Data {-}
 
 <div class="button"><a href="https://slu-soc5050.github.io/lecture-02" target="_blank">View on Course Website</a></div>
 
@@ -114,33 +113,31 @@ knitr::kable(
 
 ### Topics {-}
 
-* **Inferential Statistics:** 
-* **Data Visualization:** 
-* **Data Analysis:** 
-* **Quantitative Research:** 
+* **Data Visualization:** An Introduction to `ggplot2`
+* **Data Analysis:** Reading Data, An Introduction to Data Wrangling
+* **Quantitative Research:** Structuring Notebooks
 
 ### Readings {-}
 
 #### Required {-}
 
-* 
-* 
-
-#### *Optional* {-}
-
-* 
+* R4DS:
+    - *Print* - Chapters 1, 2, and 3 ***or***
+    - *Web* - Chapters 2 through 5 (<a href="http://r4ds.had.co.nz" target="_blank">Link</a>)
 
 ### Assignments {-}
 
 #### Due Before Class {-}
 
-* 
+* *none*
 
 #### Due Before *Next* Class {-}
 
-* 
+* *From This Week:* Lab 01 - Initial Data Cleaning
+* *For Final Project:* Memo
+* *For Next Week:* Lecture Prep 03 - Interpreting Plots
 
-## Lecture-03: Describing Distributions
+## Lecture-03: Describing Distributions {-}
 
 <div class="button"><a href="https://slu-soc5050.github.io/lecture-03" target="_blank">View on Course Website</a></div>
 
@@ -149,33 +146,37 @@ knitr::kable(
 
 ### Topics {-}
 
-* **Inferential Statistics:** 
-* **Data Visualization:** 
-* **Data Analysis:** 
-* **Quantitative Research:** 
+* **Inferential Statistics:** Mean, Median, Mode, Variance, & Standard Deviation
+* **Data Visualization:** Exploratory Data Analysis
+* **Data Analysis:** Describing Distributions
+* **Quantitative Research:** Getting Organized
 
 ### Readings {-}
 
 #### Required {-}
 
-* 
-* 
-
-#### *Optional* {-}
-
-* 
+* OpenIntro: Chapter 1, pages 26-50
+* R4DS:
+    - *Print* - Chapters 4 through 6 ***or***
+    - *Web* - Chapters 6 through 8 (<a href="http://r4ds.had.co.nz" target="_blank">Link</a>)
+* Wheelan - Chapters 2 and 3
 
 ### Assignments {-}
 
 #### Due Before Class {-}
 
-* 
+* *From Prior Week:* Lab 01 - Initial Data Cleaning
+* *For Final Project:* Memo
+* *For This Week:* Lecture Prep 03 - Interpreting Plots
 
 #### Due Before *Next* Class {-}
 
-* 
+* *From This Week:*
+    * Lab 02 - Describing Distributions
+    * Problem Set 01 - Cleaning and Describing Data
+* *For Next Week:* Lecture Prep 04 - What are the chances?
 
-## Lecture-04: Probability
+## Lecture-04: Probability {-}
 
 <div class="button"><a href="https://slu-soc5050.github.io/lecture-04" target="_blank">View on Course Website</a></div>
 
@@ -184,31 +185,29 @@ knitr::kable(
 
 ### Topics {-}
 
-* **Inferential Statistics:** 
-* **Data Visualization:** 
-* **Data Analysis:** 
-* **Quantitative Research:** 
+* **Inferential Statistics:** Probability and Bayes' Theorem
 
 ### Readings {-}
 
 #### Required {-}
 
-* 
-* 
-
-#### *Optional* {-}
-
-* 
+* OpenIntro: Chapter 2, pages 76-102 
+* Silver, S. (2012). Less and Less and Less Wrong. In *The Signal and the Noise* (pp. 232-261). New York, NY: Penguin Books.
+* Wheelan - Chapters 5, 5.5, and 6
 
 ### Assignments {-}
 
 #### Due Before Class {-}
 
-* 
+* *From Prior Week:*
+    * Lab 02 - Describing Distributions
+    * Problem Set 01 - Cleaning and Describing Data
+* *For This Week:* Lecture Prep 04 - What are the chances?
 
 #### Due Before *Next* Class {-}
 
-* 
+* *For This Week:* Lab 03 - Probability
+* *For Next Week:* Lecture Prep 05 - The Normal Approximation
 
 ## Lecture-05: The Distribution of Random Variables
 

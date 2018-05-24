@@ -12,9 +12,9 @@ This course provides an introduction to applied statistical analysis for both un
 
 ## Two Courses, One Goal
 
-Students will quickly noticed that this course has two numbers. SOC 4015 is the undergraduate section, and SOC 5050 is the graduate section. This quickly leads to anxiety for some students, who worry they have signed up for the wrong class (ocasionally this is not misplaced anxiety!) or who worry that they are taking a class that is not appropriate for their skill level. This class is designed for social science students with little to no background in statistics `R`, and scientific computing more generally. For those students, the level is largely irrelevent - undergraduate and graduate students who have not been exposed to these ideas need to cover the same material.
+Students will quickly noticed that this course has two numbers. SOC 4015 is the undergraduate section, and SOC 5050 is the graduate section. This quickly leads to anxiety for some students, who worry they have signed up for the wrong class (occasionally this is not misplaced anxiety - make sure you are enrolled in the correct section!) or who worry that they are taking a class that is not appropriate for their skill level. This class is designed for social science students with little to no background in statistics, `R`, and scientific computing more generally. For those students, the level is largely irrelevant - undergraduate and graduate students who have not been exposed to these ideas need to cover the same material.
 
-Graduate students who take this class will have to do some additional work - the final project is more rigorus than the project that undergraduates will complete. Otherwise, the course is the same because what content students need is largely the same as well.
+Graduate students who take this class will have to do some additional work - the final project is more rigorous than the project that undergraduates will complete. Otherwise, the course is the same because what content students need is largely the same as well.
 
 ## Course Objectives
 
@@ -39,7 +39,7 @@ In addition to these documents, regular updates will be provided on the [**cours
 
 There are three books required for this course with an optional fourth book. Each book has been selected to correspond with one or more of the course objectives. The books are:
 
-1. Diez, David M., Christopher D Barr, and Mine Cetinkaya-Rundel-Runde. 2015. *OpenIntro Statistics*. 3rd edition. OpenIntro.
+1. Diez, David M., Christopher D Barr, and Mine Cetinkaya-Rundel. 2015. *OpenIntro Statistics*. 3rd edition. OpenIntro.
     * This book is **not** available from the Bookstore. You can [download a free copy](https://www.openintro.org/stat/textbook.php) or purchase a physical copy from Amazon ([black & white](https://www.amazon.com/dp/1943450048/) or [color](https://www.amazon.com/dp/1943450056/)).
 2. Prener, Christopher. 2018. *Sociospatial Data Science*. 
     * This book is **not** available from the Bookstore. You can access it as a webbook and download it as a `.pdf` [here](https://chris-prener.github.io/SSDSBook/).
@@ -48,14 +48,16 @@ There are three books required for this course with an optional fourth book. Eac
 4. Wickham, Hadley and Garrett Grolemund. 2017. *R for Data Science*. O’Reily Media: Sebastopol, CA.
     * This book book can be purchased in the bookstore, online, or accessed for free [as a webbook](http://r4ds.had.co.nz).
 
-I do not require students to buy physical copies of texts. You are free to select a means for accessing these texts that meets your budget and learning style. If ebook editions (e.g. Kindle, iBooks, `pdf`, etc.) of texts are available, they are acceptable for this course. All texts should be obtained in the edition noted above.
+I do not require students to buy physical copies of texts. You are free to select a means for accessing these texts that meets your budget and learning style. If eBook editions (e.g. Kindle, iBooks, `pdf`, etc.) of texts are available, they are acceptable for this course. All texts should be obtained in the edition noted above.
 
 All readings are listed on the **Reading List** and should be completed before the course meeting on the week in which they are assigned. Full text versions of most readings not found in the books assigned for the course can be obtained using the library’s [Electronic Reserves](http://eres.slu.edu/eres/coursepass.aspx?cid=4487) system. The password for the Electric Reserves will be posted on Slack at the beginning of the semester.
 
 ## Services
 Over the course of the semester, we'll use three web-based services. Each of these will require you to create an account with a username and password. GitHub will require you to enable [two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) as well, and you should also enable this for Slack. I strongly recommend using a [password manager](https://lifehacker.com/5529133/five-best-password-managers).
 
+```{block, type = "rmdwarning"}
 All of these services have free tiers as well as premium features that require a monthly subscription. None of these premium features are required for this course - what you can access for free is all the functionality you will need!
+```
 
 ### GitHub
 
@@ -81,7 +83,7 @@ The primary tool we will use for data manipulation and analysis is the programmi
 Regardless if you are going to use RStudio on your computer or in our classroom, you have two options available for accessing the software: 
 
 1. Download `R`, RStudio, and the necessary packages manually and manage your own installation of these tools.
-2. Access `R` and RStudio via [Docker](https://www.docker.com), a tool for creating virtual computing enviornments.
+2. Access `R` and RStudio via [Docker](https://www.docker.com), a tool for creating virtual computing environments.
 
 Students who are not sure whether they will use `R` past this semester, or who are less comfortable with computers, are urged to access `R` via Docker. Students who have more comfort with computers and who already are `R` users or plan to continue using `R` after the semester should consider managing their own installation of these tools.
 
