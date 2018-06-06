@@ -12,7 +12,7 @@ This course provides an introduction to applied statistical analysis for both un
 
 ## Two Courses, One Goal
 
-Students will quickly noticed that this course has two numbers. SOC 4015 is the undergraduate section, and SOC 5050 is the graduate section. This quickly leads to anxiety for some students, who worry they have signed up for the wrong class (occasionally this is not misplaced anxiety - make sure you are enrolled in the correct section!) or who worry that they are taking a class that is not appropriate for their skill level. This class is designed for social science students with little to no background in statistics, `R`, and scientific computing more generally. For those students, the level is largely irrelevant - undergraduate and graduate students who have not been exposed to these ideas need to cover the same material.
+Students will quickly notice that this course has two numbers. SOC 4015 is the undergraduate section, and SOC 5050 is the graduate section. This quickly leads to anxiety for some students, who worry they have signed up for the wrong class (occasionally this is not misplaced anxiety - make sure you are enrolled in the correct section!) or who worry that they are taking a class that is not appropriate for their skill level. This class is designed for social science students with little to no background in statistics, `R`, and scientific computing more generally. For those students, the level is largely irrelevant - undergraduate and graduate students who have not been exposed to these ideas need to cover the same material.
 
 Graduate students who take this class will have to do some additional work - the final project is more rigorous than the project that undergraduates will complete. Otherwise, the course is the same because what content students need is largely the same as well.
 
@@ -27,11 +27,11 @@ course, students will be able to:
 
 3.  *Fundamentals of data visualization*: Create and present publication quality plots programmatically using `R` and `ggplot2`.
 
-4.  *Quantitative research synthesis*: Plan, implement (using `R`), and present (using LaTeX and the presentation software of your choice) a research project that uses linear regression to answer a research question.
+4.  *Quantitative research synthesis*: Plan, implement (using `R`), and present (using `knitr` as well as the word pressing and presentation applications of your choice) a research project that uses linear regression to answer a research question.
     
 ## Core Resources
 
-There are two core documents and resources for this course. This **Syllabus** sets out core expectations and policies for the course - i.e. what is *required* for this course.. It includes a **Reading List** that contains topics, readings (both required and optional), and assignment due dates for each week. Once the semester starts, these documents will only be updated if a schedule change is necessary.
+There are two core documents and resources for this course. This **Syllabus** sets out core expectations and policies for the course - i.e. what is *required* for this course. It includes a **Reading List** that contains topics, readings (both required and optional), and assignment due dates for each week. Once the semester starts, these documents will only be updated if a schedule change is necessary.
 
 In addition to these documents, regular updates will be provided on the [**course website**](https://slu-soc5050.github.io). Each lecture will have a corresponding page on the site that includes links to handouts, YouTube videos, sample code, and additional descriptions of concepts covered in class. If bugs or issues arise, they will be documented along with solutions here as well. Please check the website regularly for updates and new content.
 
@@ -67,14 +67,8 @@ The majority of course content (sample code, documentation, and assignments) for
 
 We will be utilizing the communication service **[Slack](https://slack.com)** to stay in touch. Slack allows me to post announcements and updates about the course that you will receive alerts to. Any changes to our course GitHub repositories will also be posted there automatically. Slack will also provide us with a space to host virtual office hours. This allows students to monitor the types of questions and issues that are arising, and learn from each other’s experiences. Slack can be accessed via a web browser or you can optionally install mobile as well as [desktop applications](https://slack.com/downloads/osx) available for both Windows and macOS.
 
-### ShareLaTeX
-
-Finally, we’ll use a free web service called [ShareLaTeX](https://www.sharelatex.com) to create documents using the markup language LaTeX. Students’ final projects will need to incorporate LaTeX deliverables. While LaTeX can be downloaded and installed, learning LaTeX online takes away some of the initial challenges with getting a LaTeX installation up and running. It will also allow me to help trouble-shoot issues remotely.
-
-In July 2017, [ShareLaTeX joined forces with their primary competitor, Overleaf ](https://www.sharelatex.com/blog/2017/07/20/sharelatex-joins-overleaf.html). Eventually one or both of these services may disappear, so there may be changes in how we access LaTeX mid-semester.
-
 ## Software
-There are two principle applications we'll be using this semester in addition to the services listed previously: [RStudio](https://www.rstudio.com) and [GitHub Desktop](https://desktop.github.com). Both of these are open-source applications that can be downloaded and used without cost. Both applications are available in our classroom, which you will have 24-hour access to throughout the semester.
+There are two principle applications we'll be using this semester in addition to the services listed previously: [RStudio](https://www.rstudio.com) and [GitHub Desktop](https://desktop.github.com). Both of these are open-source applications that can be downloaded and used without cost. Both applications are available in our classroom, which you will have 24-hour access to throughout the semester. 
 
 ### `R` and RStudio
 
@@ -92,3 +86,6 @@ Detailed instructions are available for both options on the [course website](htt
 ### GitHub Desktop
 
 You will need another free application called [GitHub Desktop](https://desktop.github.com). This program allows you to easily copy data from GitHub onto your computer. It also makes it easy to upload files like labs and problem sets to GitHub. If you have already used Git via the command line, you can continue to do so without utilizing GitHub Desktop.
+
+### Additional Software
+You will need to use some type of word processing and presentation software. We'll use some specific `R` packages to produce output in Microsoft Word and Powerpoint formats, but these can be readily used with other programs (like Apple's iWork suite) without actually having Microsoft Office installed on your computer. Resources will also be made available for students who wish to use `R` and LaTeX together to produce research deliverables based on plain text files.

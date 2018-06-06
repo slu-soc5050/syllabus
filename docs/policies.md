@@ -20,7 +20,7 @@ The following sections contain additional details about specific course policies
 </br>
 The goal of this course is not just to impart knowledge related to statistics, data science, and programming, but to purposefully create an environment where **all** students feel welcome and supported even as they also feel challenged intellectually. This is especially important in a STEM course, where stress levels can be generally high, particularly for certain groups of students. This can be true for many reasons. For students who have not had significant mathematical coursework since High School, or have not written computer code before, that could be enough to treat statistics coursework with apprehension. 
 
-For reasons related to the stress of STEM coursework as well as sociological issues within both STEM courses and majors (including gender and racial imbalances in the composition of courses), students sometimes develop "impostor syndrome", a feeling that academic gains are not the result of their own abilities and a fear that they will soon be "found out" ([Cooper et al. 2018](https://www.physiology.org/doi/10.1152/advan.00085.2017), [Lindemann et al. 2016](http://genderandset.open.ac.uk/index.php/genderandset/article/view/435)). This is reported with particular frequency by students ([Ong 2005](https://doi.org/10.1525/sp.2005.52.4.593)) and can make STEM courses particularly isolating for women and students of color ([Malone and Barabino 2008](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sce.20307), [Ong et al. 2011](https://doi.org/10.17763/haer.81.2.t022245n7x4752v2)).
+For reasons related to the stress of STEM coursework as well as sociological issues within both STEM courses and majors (including gender and racial imbalances in the composition of courses), students sometimes develop "impostor syndrome", a feeling that academic gains are not the result of their own abilities and a fear that they will soon be "found out" ([Cooper et al. 2018](https://www.physiology.org/doi/10.1152/advan.00085.2017), [Lindemann et al. 2016](http://genderandset.open.ac.uk/index.php/genderandset/article/view/435)). This is reported with particular frequency by students from traditionally underrepresented groups ([Ong 2005](https://doi.org/10.1525/sp.2005.52.4.593)) and can make STEM courses particularly isolating for women and students of color ([Malone and Barabino 2008](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sce.20307), [Ong et al. 2011](https://doi.org/10.17763/haer.81.2.t022245n7x4752v2)).
 
 ### A Compassionate Classroom
 
@@ -48,7 +48,7 @@ All students should also familiarize themselves with [Saint Louis University’s
 
 Instances of abusive, harassing, or otherwise unacceptable behavior should be reported either directly to the instructor or to the University Administration. Consistent with the above policies, I will forward all reports of inappropriate conduct to the Title IX Coordinator’s office or to the Office of Diversity and Affirmative Action. Please be aware that University policies may require me to forward information about the identity of any students connected to the disclosure.
 
-Please also be aware that communications over various online services, including (but not limited to) Slack, GitHub, ShareLaTeX, and Google Apps, are covered by this policy.
+Please also be aware that communications over various online services, including (but not limited to) Slack, GitHub, and Google Apps, are covered by this policy.
 
 ## Attendance and Participation
 
@@ -90,4 +90,4 @@ All students should familiarize themselves with [Saint Louis University’s poli
 
 Any work that is taken from another student, copied from printed material, or copied the internet without proper citation is expressly prohibited. Note that this includes all computer code, narrative text, and documentation written for class assignments - each student is expected to author and de-bug their notebooks and accompanying files. 
 
-All relevant assignments should include in-text citations and references formatted using the [American Psychological Association (APA)](https://owl.english.purdue.edu/owl/resource/560/01/) style guidelines. Any student who is found to have been academically dishonest in their work risks failing both the assignment and this course.
+All relevant assignments should include in-text citations and references formatted using the [American Sociological Association (ASA)](https://owl.english.purdue.edu/owl/resource/583/1/) style guidelines. Any student who is found to have been academically dishonest in their work risks failing both the assignment and this course.
