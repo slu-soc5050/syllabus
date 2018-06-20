@@ -14,19 +14,6 @@ R4DS           Wickham, H., & Grolemund, G. (2016). R for data science: import, 
 SSDS           Prener, C. (2018). Sociospatial Data Science.                                                                                     
 Wheelan        Wheelan, C. (2013). Naked statistics: Stripping the dread from the data. WW Norton & Company.                                     
 
-<br>
-There will also be a link that refers to where a particular reading can be located:
-
-
-Table: (\#tab:unnamed-chunk-2)Reading Locations
-
-Abbreviation   Citation            
--------------  --------------------
-ER             Electronic Reserves 
-GH             GitHub              
-Link           Website             
-PL             Pius Library        
-
 ## Course Preview {-}
 
 <div class="button"><a href="https://slu-soc5050.github.io/course-preview" target="_blank">View on Course Website</a></div>

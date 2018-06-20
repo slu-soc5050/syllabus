@@ -17,22 +17,6 @@ knitr::kable(
 )
 ```
 
-<br>
-There will also be a link that refers to where a particular reading can be located:
-
-```{r, echo=FALSE}
-readings <- data.frame(
-  Abbreviation = c("ER", "GH", "Link", "PL"),
-  Citation = c("Electronic Reserves", "GitHub", "Website", "Pius Library"),
-  stringsAsFactors = FALSE
-)
-
-knitr::kable(
-  readings, booktabs = TRUE,
-  caption = "Reading Locations"
-)
-```
-
 ## Course Preview {-}
 
 <div class="button"><a href="https://slu-soc5050.github.io/course-preview" target="_blank">View on Course Website</a></div>
