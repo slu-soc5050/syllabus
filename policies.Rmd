@@ -52,7 +52,15 @@ Please also be aware that communications over various online services, including
 
 ## Attendance and Participation
 
-Attendance and participation are important components of this course since we only meet once a week. Students are expected to attend all class sessions; missing even one class can create a significant roadblock for many students. Making up missed classes are your responsibility. Please let me know if you will be missing class so that we can touch base about any assignments, and make sure to obtain notes from a classmate. I do post slides to GitHub, but my slides are intended only to serve as references. Please note that lectures and discussions cannot be recorded by any means (e.g. audio or video recordings, or photographs) without my permission.
+Attendance and participation are important components of this course since we only meet once a week. Students are expected to attend all class sessions; missing even one class can create a significant roadblock for many students. If you cannot attend class or arrive on time because of a personal illness, a family issue, jury duty, an athletic match, or a religious observance, you must contact me **beforehand** to let me know. I may ask for more information, such as a note from a physician, a travel letter from Athletics, or other documentation for absences. 
+
+A penalty will not be applied to your first unexcused absence or late arrival. Any absences or late arrivals beyond the first will result in no credit (for an absences) or only partial credit (for a late arrival) being earned for that day's participation grade.
+
+Making up missed classes are your responsibility. I do post slide decks on the course website, but my slides are intended only to serve as references. This semester, I am also **experimenting** with Tegrity recordings for this course. Recordings will typically be posted within 24-hours of class and will be linked to through the course website.
+
+The academic literature (see [this recent article](https://link.springer.com/article/10.1007/s10734-018-0275-9) for a nice overview) suggests that the impact of lecture capture tools like Tegrity is mixed at best. Students tend to rate their experience with lecture capture far more positively than faculty do. Students who continue to attend class regularly and use lecture recordings as part of an *active* approach to studying and filling in specific areas of their notes may benefit from recordings. Students who use recordings as a replacement for attending class do not benefit from the recordings.
+
+Please also note that lectures and discussions cannot be recorded by any means (e.g. audio or video recordings, or photographs) without my permission.
 
 ## Communication
 
