@@ -23,21 +23,22 @@ Wheelan        Wheelan, C. (2013). Naked statistics: Stripping the dread from th
 
 ### Topics {-}
 
-* **Inferential Statistics:** 
-* **Data Visualization:** 
-* **Data Analysis:** 
-* **Quantitative Research:** 
+* **Data Analysis:** Plain Text Science and Analysis Development
 
-### Readings {-}
+### Videos {-}
 
 #### Required {-}
 
-* 
-* 
+1. Wickham, H. (2018). You can't do data science in a GUI, Chicago, IL. Loyola University.  (<a href="https://slu-soc5050.github.io/course-preview/#plain-text-science" target="_blank">Link</a>)
+2. Parker, H. (2017). Opinionated analysis development, Orlando, FL. rstudio::conf. (<a href="https://slu-soc5050.github.io/course-preview/#analysis-development" target="_blank">Link</a>)
+
+### Readings {-}
 
 #### *Optional* {-}
 
-* 
+* Healy, K. (2018). The plain person's guide to plain text. (<a href="https://kieranhealy.org/publications/plain-person-text/" target="_blank">Link</a>) 
+* Parker H. (2017). Opinionated analysis development. *PeerJ Preprints* 5:e3210v1. (<a href="https://doi.org/10.7287/peerj.preprints.3210v1" target="_blank">Link</a>) 
+* Thieme, N. (2018). R generation. *Significance*, 15(4), 14-19. (<a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2018.01169.x" target="_blank">Link</a>) 
 
 ### Assignments {-}
 
