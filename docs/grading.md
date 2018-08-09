@@ -63,7 +63,7 @@ In brief, all students will select a topic and submit their topic by Lecture-03 
 As work progresses, there will be a number of **waypoints** where students will need to submit updates on their progress. Waypoints beyond the memo submission are as follows:
 
 -   Lecture-05 (**September 24^th^**) - Meeting report posted in each group's Slack channel
--   Lecture-08 (**October 15^th^**) - Progress report from each student due in group's Slack channel
+-   Lecture-08 (**October 15^th^**) - Progress report from each student due as a GitHub issue in each student's final project repository
 -   Lecture-11 (**November 5^th^**) - Draft materials due in each student's final project repository
 -   Lecture-12 (**November 12^th^**) - Peer reviews due to group members as a GitHub issue in each student's final project repository
 -   Lecture-13 (**November 19^th^**) - Response to reviewer due in the GitHub issue opened by the reviewer
@@ -87,10 +87,10 @@ Final Code & Docs    100 pts   x1         100 pts
 Final Slides         100 pts   x1         100 pts 
 Final Presentation   30 pts    x1         30 pts  
 
-##### SOC 5050
+#### SOC 5050
 If you are enrolled in SOC 5050, you will need to identify an appropriate data set that contains a continuous variable that you can use as your main study variable. You will then clean the data and conduct an analysis of this variable using a variety of statistical tests covered this semester. Your final results will be presented as a PowerPoint presentation during finals week. 
 
-You will also have to produce a 5,000 word final journal article manuscript that places your project in the relevant social science literature, presents your data and methods, and provides a summary and discussion of your results. An annotated bibliography will be due at Lecture-07 (**October 8^th^**) and the draft paper will be due at Lecture-12 (**Novemeber 12^th^**; note that this is one week *after* the other draft materials).
+You will also have to produce a 5,000 word final journal article manuscript that places your project in the relevant social science literature, presents your data and methods, and provides a summary and discussion of your results. An annotated bibliography will be due at Lecture-07 (**October 8^th^**) and the draft paper will be due at Lecture-12 (**Novemeber 12^th^**; note that this is one week *after* the other draft materials). Peer reviews of papers will be due at Lecture-13 (**Novemeber 19^th^**).
 
 
 Table: (\#tab:unnamed-chunk-7)SOC 5050 Final Project Breakdown
@@ -98,12 +98,12 @@ Table: (\#tab:unnamed-chunk-7)SOC 5050 Final Project Breakdown
 Assignment               Points    Quantity   Total   
 -----------------------  --------  ---------  --------
 Memo                     10 pts    x1         10 pts  
-Waypoints                10 pts    x6         60 pts  
+Waypoints                10 pts    x7         70 pts  
 Annotated Bibliography   15 pts    x1         15 pts  
 Draft Code & Docs        15 pts    x1         15 pts  
 Draft Slides             15 pts    x1         15 pts  
 Draft Paper              15 pts    x1         15 pts  
-Final Code & Docs        50 pts    x1         50 pts  
+Final Code & Docs        40 pts    x1         40 pts  
 Final Slides             100 pts   x1         100 pts 
 Final Presentation       30 pts    x1         30 pts  
 Final Paper              100 pts   x1         100 pts 

@@ -63,7 +63,7 @@ In brief, all students will select a topic and submit their topic by Lecture-03 
 As work progresses, there will be a number of **waypoints** where students will need to submit updates on their progress. Waypoints beyond the memo submission are as follows:
 
 -   Lecture-05 (**September 24^th^**) - Meeting report posted in each group's Slack channel
--   Lecture-08 (**October 15^th^**) - Progress report from each student due in group's Slack channel
+-   Lecture-08 (**October 15^th^**) - Progress report from each student due as a GitHub issue in each student's final project repository
 -   Lecture-11 (**November 5^th^**) - Draft materials due in each student's final project repository
 -   Lecture-12 (**November 12^th^**) - Peer reviews due to group members as a GitHub issue in each student's final project repository
 -   Lecture-13 (**November 19^th^**) - Response to reviewer due in the GitHub issue opened by the reviewer
@@ -89,17 +89,17 @@ knitr::kable(
 )
 ```
 
-##### SOC 5050
+#### SOC 5050
 If you are enrolled in SOC 5050, you will need to identify an appropriate data set that contains a continuous variable that you can use as your main study variable. You will then clean the data and conduct an analysis of this variable using a variety of statistical tests covered this semester. Your final results will be presented as a PowerPoint presentation during finals week. 
 
-You will also have to produce a 5,000 word final journal article manuscript that places your project in the relevant social science literature, presents your data and methods, and provides a summary and discussion of your results. An annotated bibliography will be due at Lecture-07 (**October 8^th^**) and the draft paper will be due at Lecture-12 (**Novemeber 12^th^**; note that this is one week *after* the other draft materials).
+You will also have to produce a 5,000 word final journal article manuscript that places your project in the relevant social science literature, presents your data and methods, and provides a summary and discussion of your results. An annotated bibliography will be due at Lecture-07 (**October 8^th^**) and the draft paper will be due at Lecture-12 (**Novemeber 12^th^**; note that this is one week *after* the other draft materials). Peer reviews of papers will be due at Lecture-13 (**Novemeber 19^th^**).
 
 ```{r, echo=FALSE}
 final5050 <- data.frame(
   Assignment = c("Memo", "Waypoints", "Annotated Bibliography", "Draft Code & Docs", "Draft Slides", "Draft Paper", "Final Code & Docs", "Final Slides", "Final Presentation", "Final Paper"),
-  Points = c("10 pts", "10 pts", "15 pts", "15 pts", "15 pts", "15 pts", "50 pts", "100 pts", "30 pts", "100 pts"),
-  Quantity = c("x1", "x6", "x1", "x1", "x1", "x1", "x1", "x1", "x1", "x1"),
-  Total = c("10 pts", "60 pts", "15 pts", "15 pts", "15 pts", "15 pts", "50 pts", "100 pts", "30 pts", "100 pts"),
+  Points = c("10 pts", "10 pts", "15 pts", "15 pts", "15 pts", "15 pts", "40 pts", "100 pts", "30 pts", "100 pts"),
+  Quantity = c("x1", "x7", "x1", "x1", "x1", "x1", "x1", "x1", "x1", "x1"),
+  Total = c("10 pts", "70 pts", "15 pts", "15 pts", "15 pts", "15 pts", "40 pts", "100 pts", "30 pts", "100 pts"),
   stringsAsFactors = FALSE
 )
 
