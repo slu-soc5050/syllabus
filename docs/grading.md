@@ -12,7 +12,7 @@ Your grade for this course will consist of a number of different assignments on 
 
 Both attendance and participation are critically important aspects of this class. The class participation grade will be based on (a) attendance, (b) level of engagement during lectures and labs, (c) level of engagement on Slack, and (d) the completion of other exercises including "entry" and "exit" tickets, the student information sheet, a pre-test, and an end of the semester course evaluation. 
 
-Each of these elements is assigned a point value and assessed using a scale that awards full, partial, or no credit. Your participation grade will be split, with 50 points (5% of your final grade) for the first half of the semester (through Lecture-07) and another 50 points (5%) for the second half. Since the number of points awarded for participation are variable, the total number of points earned for each half will be converted to a 0 to 50 scale. 
+Each of these elements is assigned a point value and assessed using a scale that awards full, partial, or no credit. Your participation grade will be split, with 50 points (5% of your final grade) for the first half of the semester (through Lecture-08) and another 50 points (5%) for the second half. Since the number of points awarded for participation are variable, the total number of points earned for each half will be converted to a 0 to 50 scale. 
 
 I provide the final number of points earned for each half of the course. If you would like a more detailed breakdown of your participation grade, please reach out and I will provide one.
 
@@ -22,11 +22,11 @@ I provide the final number of points earned for each half of the course. If you 
 <p>Lecture preps are worth <strong>6%</strong> of your final grade.</p>
 </div>
 
-Before each course meeting, you will need to complete all assigned readings. For a part of these readings, you will also need to complete a textbook exercise. These prep exercises are designed to get you ready for the week's material by exposing you to basic, guided examples before class begins. Instructions for the lecture preps will be posted in the lecture repositories on [**GitHub**](https://github.com/slu-soc5050) and will be linked to from the lecture pages on the [**course website**](https://slu-soc5050.github.io/). The instructions will also detail the deliverables to be submitted to demonstrate completion of each assignment.
+Before each course meeting, you will need to complete all assigned readings. For a part of these readings, you will also need to complete a short exercise. These prep exercises are designed to get you ready for the week's material by exposing you to basic, guided examples before class begins. Instructions for the lecture preps will be posted in the lecture repositories on [**GitHub**](https://github.com/slu-soc5050) and will be linked to from the lecture pages on the [**course website**](https://slu-soc5050.github.io/). The instructions will also detail the deliverables to be submitted to demonstrate completion of each assignment.
 
 For many of the lecture preps, I will post a YouTube video of me completing the exercise and narrating the process. These videos will be embedded in the lecture pages on the [**course website**](https://slu-soc5050.github.io/). You should follow along with the video and use it as a guide for completing the exercise yourself. I will also post replication files that detail the process and, if relevant, the code for completing the lecture prep. Like the instructions, these will be posted in the lecture repositories on [**GitHub**](https://github.com/slu-soc5050).
 
-There will be a total of fifteen lecture preps over the course of the semester, each of which is worth 4 points (0.4% of your final grade). Lecture preps are graded using the “check” grading system. Since replication files are posted, feedback for lecture preps is not generally returned and we will only respond with the number of points awarded if you do not earn full credit.
+There will be a total of fifteen lecture preps over the course of the semester, each of which is worth 4 points (0.4% of your final grade). Lecture preps are graded using the “check” grading system. Since replication files are posted, feedback for lecture preps is not generally returned and I will only respond with the number of points awarded if you do not earn full credit.
 
 ### Lab Exercises
 
@@ -38,7 +38,7 @@ Each course meeting (except the first) will include time dedicated to practicing
 
 Lab exercises will be completed in small workgroups, though each student is expected to turn in the required deliverables. We will assign students to workgroups and may shuffle their composition over the course of the semester. Completing a lab entails not just successfully submitting the required deliverables but also actively contributing to the group discussions that help to produce them.
 
-There will be a total of fifteen lab exercises over the course of the semester, each of which is worth 10 points (1.5% of your final grade). Lab exercises are graded using the “check” grading system. Since replication files are posted, feedback for labs is not generally returned and we will only respond with the number of points awarded if you do not earn full credit.
+There will be a total of fifteen lab exercises over the course of the semester, each of which is worth 10 points (1.5% of your final grade). Lab exercises are graded using the “check” grading system. Since replication files are posted, feedback for labs is not generally returned and I will only respond with the number of points awarded if you do not earn full credit.
 
 ### Problem Sets
 
@@ -48,7 +48,7 @@ There will be a total of fifteen lab exercises over the course of the semester, 
 
 Problem sets will require students to draw on a variety of skills, including cleaning data, performing statistical analyses, producing plots, and reporting results. They are designed to assess your progress with the first four course objectives. Instructions for the problem sets will be posted in the lecture repositories on [**GitHub**](https://github.com/slu-soc5050) and will be linked to from the lecture pages on the [**course website**](https://slu-soc5050.github.io/). The instructions will also detail the deliverables to be submitted to demonstrate completion of each assignment. Replication files that illustrate my approach to each problem set will be posted on [**GitHub**](https://github.com/slu-soc5050) in the [`Replications`](https://github.com/slu-soc5050/Replications) repository once all students have submitted their problem sets.
 
-There will be a total of eight problem sets over the course of the semester, each of which is worth 35 points (3.5% of your final grade). Each Problem Set will include a simple rubric describing how each problem set is evaluated. A key aspect of these assignments is not only demonstrating comfort with a particular set of GISc skills, but also demonstrating and evolving in your analysis development, programming, and cartography skills as well. The weight given to quality of your process, code, and graphic design will increase as the semester progresses.
+There will be a total of eight problem sets over the course of the semester, each of which is worth 35 points (3.5% of your final grade). Each Problem Set will include a simple rubric describing how each problem set is evaluated. A key aspect of these assignments is not only demonstrating comfort with a particular set of statistics skills, but also demonstrating and evolving in your analysis development, programming, and analytical skills as well. The weight given to quality of your process and code will increase as the semester progresses.
 
 ### Final Project
 
@@ -66,8 +66,8 @@ As work progresses, there will be a number of **waypoints** where students will 
 -   Lecture-08 (**October 15^th^**) - Progress report from each student due as a GitHub issue in each student's final project repository
 -   Lecture-11 (**November 5^th^**) - Draft materials due in each student's final project repository
 -   Lecture-12 (**November 12^th^**) - Peer reviews due to group members as a GitHub issue in each student's final project repository
--   Lecture-13 (**November 19^th^**) - Response to reviewer due in the GitHub issue opened by the reviewer
 -   Lecture-15 (**December 3^rd^**) - Progress report from each student due as a GitHub issue in each student's final project repository
+-   Final Presentations (**December 17^th^**) - Response to reviewer due in the GitHub issue opened by the reviewer
 
 Deliverables for each waypoint are described in the [**final project guide**](https://slu-soc5050.github.io/finalGuide). All waypoints are graded using the "check" grading system. Final materials will be due on **December 17^th^** (during Finals Week), when we will hold a "research conference" in Morrissey Hall. During our conference, each student will present their results using PowerPoint (or similar). Final deliverables differ by course section.
 
@@ -103,9 +103,9 @@ Annotated Bibliography   15 pts    x1         15 pts
 Draft Code & Docs        15 pts    x1         15 pts  
 Draft Slides             15 pts    x1         15 pts  
 Draft Paper              15 pts    x1         15 pts  
-Final Code & Docs        40 pts    x1         40 pts  
+Final Code & Docs        35 pts    x1         35 pts  
 Final Slides             100 pts   x1         100 pts 
-Final Presentation       30 pts    x1         30 pts  
+Final Presentation       35 pts    x1         35 pts  
 Final Paper              100 pts   x1         100 pts 
 
 ## Submission and Late Work
@@ -184,8 +184,6 @@ GPA   Letter   Percent
   </tr>
 </tbody>
 </table>
-
-No chances will be given for revisions of poor grades. Incomplete grades will be given upon request only if you have a "C" average and have completed at least two-thirds of the assignments. You should note that incomplete grades must be rectified by the specified deadline or they convert to an "F".
 
 <div class="rmdwarning">
 <p>No chances will be given for revisions of poor grades. Incomplete grades will be given upon request only if you have a “C” average and have completed at least two-thirds of the assignments. You should note that incomplete grades must be rectified by the specified deadline or they convert to an “F”.</p>
