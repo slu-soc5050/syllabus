@@ -55,9 +55,12 @@ All readings are listed on the **Reading List** and should be completed before t
 ## Services
 Over the course of the semester, we'll use three web-based services. Each of these will require you to create an account with a username and password. GitHub will require you to enable [two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) as well, and you should also enable this for Slack. I strongly recommend using a [password manager](https://lifehacker.com/5529133/five-best-password-managers).
 
-<div class="rmdwarning">
-<p>All of these services have free tiers as well as premium features that require a monthly subscription. None of these premium features are required for this course - what you can access for free is all the functionality you will need!</p>
-</div>
+\begin{rmdwarning}
+All of these services have free tiers as well as premium features that
+require a monthly subscription. None of these premium features are
+required for this course - what you can access for free is all the
+functionality you will need!
+\end{rmdwarning}
 
 ### GitHub
 
@@ -68,24 +71,17 @@ The majority of course content (sample code, documentation, and assignments) for
 We will be utilizing the communication service **[Slack](https://slack.com)** to stay in touch. Slack allows me to post announcements and updates about the course that you will receive alerts to. Any changes to our course GitHub repositories will also be posted there automatically. Slack will also provide us with a space to host virtual office hours. This allows students to monitor the types of questions and issues that are arising, and learn from each other’s experiences. Slack can be accessed via a web browser or you can optionally install mobile as well as [desktop applications](https://slack.com/downloads/osx) available for both Windows and macOS.
 
 ## Software
-There are two principle applications we'll be using this semester in addition to the services listed previously: [RStudio](https://www.rstudio.com) and [GitHub Desktop](https://desktop.github.com). Both of these are open-source applications that can be downloaded and used without cost. Both applications are available in our classroom, which you will have 24-hour access to throughout the semester. 
+There are two principle applications we'll be using this semester in addition to the services listed previously: [RStudio](https://www.rstudio.com) and [GitHub Desktop](https://desktop.github.com). Both of these are open-source applications that can be downloaded and used without cost. All applications are available in our classroom, which you will have 24-hour access to throughout the semester. 
 
 ### `R` and RStudio
 
-The primary tool we will use for data manipulation and analysis is the programming language `R`. `R` is open-source, freely available, and highly extensible analysis environment. We’ll use [RStudio](https://www.rstudio.com) as the “front end” for our analyses. RStudio makes it easier to write `R` code and to produce well documented analyses. Like the `R` programming language itself, RStudio is freely available.
+The primary tool we will use for data manipulation and analysis is the programming language `R`. `R` is open-source, freely available, and highly extensible analysis environment. We’ll use [RStudio](https://www.rstudio.com) as the "front end" for our analyses. RStudio makes it easier to write `R` code and to produce well documented analyses. Like the `R` programming language itself, RStudio is freely available. 
 
-Regardless if you are going to use RStudio on your computer or in our classroom, you have two options available for accessing the software: 
-
-1. Download `R`, RStudio, and the necessary packages manually and manage your own installation of these tools.
-2. Access `R` and RStudio via [Docker](https://www.docker.com), a tool for creating virtual computing environments.
-
-Students who are not sure whether they will use `R` past this semester, or who are less comfortable with computers, are urged to access `R` via Docker. Students who have more comfort with computers and who already are `R` users or plan to continue using `R` after the semester should consider managing their own installation of these tools.
-
-Detailed instructions are available for both options on the [course website](https://slu-soc5050.github.io/course-software/). 
+You will need to decide whether you want to install `R` and RStudio locally on a computer you own or if you would rather use the desktop computers in our computer lab. Detailed instructions are available for both options on the [course website](https://slu-soc5050.github.io/course-software/). 
 
 ### GitHub Desktop
 
-You will need another free application called [GitHub Desktop](https://desktop.github.com). This program allows you to easily copy data from GitHub onto your computer. It also makes it easy to upload files like labs and problem sets to GitHub. If you have already used Git via the command line, you can continue to do so without utilizing GitHub Desktop.
+You will need another free application called [GitHub Desktop](https://desktop.github.com). This program allows you to easily copy data from GitHub onto your computer. It also makes it easy to upload files like labs and problem sets to GitHub. If you have already used Git via the command line, you can continue to do so without utilizing GitHub Desktop. 
 
 ### Additional Software
 You will need to use some type of word processing and presentation software. We'll use some specific `R` packages to produce output in Microsoft Word and Powerpoint formats, but these can be readily used with other programs (like Apple's iWork suite) without actually having Microsoft Office installed on your computer. Resources will also be made available for students who wish to use `R` and LaTeX together to produce research deliverables based on plain text files.

@@ -4,15 +4,21 @@ Select a lecture from the menu to see details about topics, readings, and assign
 
 The primary readings will be referred to with an abbreviation each time they appear in the reading list:
 
+\begin{table}
 
-Table: (\#tab:unnamed-chunk-1)SOC 4015 and 5050 Primary Readings
-
-Abbreviation   Citation                                                                                                                                                    
--------------  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-OpenIntro      Diez, David M., Christopher D. Barr, and Mine Cetinkaya-Rundel. 2012. *OpenIntro Statistics.* CreateSpace.                                                  
-R4DS           Wickham, Hadley and Garrett Grolemund. 2016. *R for data science: import, tidy, transform, visualize, and model data*. Sebastopol, CA: O'Reilly Media, Inc. 
-SSDS           Prener, Christopher. 2018. *Sociospatial Data Science.*                                                                                                     
-Wheelan        Wheelan, Charles. 2013. *Naked statistics: Stripping the dread from the data.* New York, NY: WW Norton & Company.                                           
+\caption{(\#tab:unnamed-chunk-1)SOC 4015 and 5050 Primary Readings}
+\centering
+\begin{tabular}[t]{ll}
+\toprule
+Abbreviation & Citation\\
+\midrule
+OpenIntro & Diez, David M., Christopher D. Barr, and Mine Cetinkaya-Rundel. 2012. *OpenIntro Statistics.* CreateSpace.\\
+R4DS & Wickham, Hadley and Garrett Grolemund. 2016. *R for data science: import, tidy, transform, visualize, and model data*. Sebastopol, CA: O'Reilly Media, Inc.\\
+SSDS & Prener, Christopher. 2018. *Sociospatial Data Science.*\\
+Wheelan & Wheelan, Charles. 2013. *Naked statistics: Stripping the dread from the data.* New York, NY: WW Norton \& Company.\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ## Course Preview {-}
 
