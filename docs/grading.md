@@ -62,7 +62,7 @@ In brief, all students will select a topic and submit their topic by Lecture-03 
 
 As work progresses, there will be a number of **waypoints** where students will need to submit updates on their progress. Waypoints beyond the memo submission are as follows:
 
--   Lecture-05 (**September 24^th^**) - Meeting report posted in each group's Slack channel
+-   Lecture-05 (**September 24^th^**) - Progress report from each student due as a GitHub issue in each student's final project repository
 -   Lecture-08 (**October 15^th^**) - Progress report from each student due as a GitHub issue in each student's final project repository
 -   Lecture-11 (**November 5^th^**) - Draft materials due in each student's final project repository
 -   Lecture-12 (**November 12^th^**) - Peer reviews due to group members as a GitHub issue in each student's final project repository
@@ -184,6 +184,8 @@ GPA   Letter   Percent
   </tr>
 </tbody>
 </table>
+
+Borderline grades (i.e. a grade within half a percentage point of the next highest letter grade) *will* be rounded up before final grade submission at the end of the semester. A grade of 89.6% would therefore be submitted to SLU as an "A-" while a grade of 89.4% would be submitted to SLU as a "B+". The final grade report will include both the original letter grade and the rounded letter grade if applicable.
 
 <div class="rmdwarning">
 <p>No chances will be given for revisions of poor grades. Incomplete grades will be given upon request only if you have a “C” average and have completed at least two-thirds of the assignments. You should note that incomplete grades must be rectified by the specified deadline or they convert to an “F”.</p>
