@@ -74,7 +74,7 @@ There are two principle applications we'll be using this semester in addition to
 
 The primary tool we will use for data manipulation and analysis is the programming language `R`. `R` is open-source, freely available, and highly extensible analysis environment. We’ll use [RStudio](https://www.rstudio.com) as the "front end" for our analyses. RStudio makes it easier to write `R` code and to produce well documented analyses. Like the `R` programming language itself, RStudio is freely available. 
 
-You will need to decide whether you want to install `R` and RStudio locally on a computer you own or if you would rather use the desktop computers in our computer lab. Detailed instructions are available for both options on the [course website](https://slu-soc5050.github.io/course-software/). 
+You will need to decide whether you want to install `R` and RStudio locally on a computer you own or if you would rather use the desktop computers in our computer lab. Detailed instructions are available for both options on the [course website](https://slu-soc5050.github.io/course-software/).
 
 ### GitHub Desktop
 
