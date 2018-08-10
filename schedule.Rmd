@@ -14,7 +14,7 @@ schedule <- data.frame(
 
 knitr::kable(
   schedule, booktabs = TRUE,
-  caption = "SOC 4015 & 5050 Course Overview"
+  caption = "SOC 4015 and 5050 Course Overview"
 )
 ```
 

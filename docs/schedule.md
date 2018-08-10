@@ -4,29 +4,38 @@
 
 The following is a high-level schedule that details the general topic covered by each lecture.
 
+\begin{table}
 
-Table: (\#tab:unnamed-chunk-1)SOC 4015 & 5050 Course Overview
-
-Lecture   Date                     Topic                                
---------  -----------------------  -------------------------------------
-          prior to August 27^th^   Course Preview                       
-01        August 27^th^            Course Introduction                  
-02        September 3^rd^          Working with Data                    
-03        September 10^th^         Describing Distributions             
-04        September 17^th^         Probability                          
-05        September 24^th^         The Distribution of Random Variables 
-06        October 1^st^            Foundations for Inference            
-07        October 8^th^            Difference of Means (Part 1)         
-08        October 15^th^           Difference of Means (Part 2)         
-09        October 22^nd^           Working with Factors                 
-10        October 29^th^           Correlations (Part 1)                
-11        November 5^th^           Correlations (Part 2)                
-12        November 12^th^          OLS Regression (Part 1)              
-13        November 19^th^          OLS Regression (Part 2)              
-14        November 26^th^          OLS Regression (Part 3)              
-15        December 3^rd^           Analysis of Variance                 
-16        December 10^th^          Chi-Squared                          
-          December 17^th^          Final Presentations                  
+\caption{(\#tab:unnamed-chunk-1)SOC 4015 and 5050 Course Overview}
+\centering
+\begin{tabular}[t]{lll}
+\toprule
+Lecture & Date & Topic\\
+\midrule
+ & prior to August 27\textasciicircum{}th\textasciicircum{} & Course Preview\\
+01 & August 27\textasciicircum{}th\textasciicircum{} & Course Introduction\\
+02 & September 3\textasciicircum{}rd\textasciicircum{} & Working with Data\\
+03 & September 10\textasciicircum{}th\textasciicircum{} & Describing Distributions\\
+04 & September 17\textasciicircum{}th\textasciicircum{} & Probability\\
+\addlinespace
+05 & September 24\textasciicircum{}th\textasciicircum{} & The Distribution of Random Variables\\
+06 & October 1\textasciicircum{}st\textasciicircum{} & Foundations for Inference\\
+07 & October 8\textasciicircum{}th\textasciicircum{} & Difference of Means (Part 1)\\
+08 & October 15\textasciicircum{}th\textasciicircum{} & Difference of Means (Part 2)\\
+09 & October 22\textasciicircum{}nd\textasciicircum{} & Working with Factors\\
+\addlinespace
+10 & October 29\textasciicircum{}th\textasciicircum{} & Correlations (Part 1)\\
+11 & November 5\textasciicircum{}th\textasciicircum{} & Correlations (Part 2)\\
+12 & November 12\textasciicircum{}th\textasciicircum{} & OLS Regression (Part 1)\\
+13 & November 19\textasciicircum{}th\textasciicircum{} & OLS Regression (Part 2)\\
+14 & November 26\textasciicircum{}th\textasciicircum{} & OLS Regression (Part 3)\\
+\addlinespace
+15 & December 3\textasciicircum{}rd\textasciicircum{} & Analysis of Variance\\
+16 & December 10\textasciicircum{}th\textasciicircum{} & Chi-Squared\\
+ & December 17\textasciicircum{}th\textasciicircum{} & Final Presentations\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ## Planned Online Lectures
 

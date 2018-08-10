@@ -4,15 +4,21 @@ Select a lecture from the menu to see details about topics, readings, and assign
 
 The primary readings will be referred to with an abbreviation each time they appear in the reading list:
 
+\begin{table}
 
-Table: (\#tab:unnamed-chunk-1)SOC 4015 & 5050 Primary Readings
-
-Abbreviation   Citation                                                                                                                                                    
--------------  ------------------------------------------------------------------------------------------------------------------------------------------------------------
-OpenIntro      Diez, David M., Christopher D. Barr, and Mine Cetinkaya-Rundel. 2012. *OpenIntro Statistics.* CreateSpace.                                                  
-R4DS           Wickham, Hadley and Garrett Grolemund. 2016. *R for data science: import, tidy, transform, visualize, and model data*. Sebastopol, CA: O'Reilly Media, Inc. 
-SSDS           Prener, Christopher. 2018. *Sociospatial Data Science.*                                                                                                     
-Wheelan        Wheelan, Charles. 2013. *Naked statistics: Stripping the dread from the data.* New York, NY: WW Norton & Company.                                           
+\caption{(\#tab:unnamed-chunk-1)SOC 4015 and 5050 Primary Readings}
+\centering
+\begin{tabular}[t]{ll}
+\toprule
+Abbreviation & Citation\\
+\midrule
+OpenIntro & Diez, David M., Christopher D. Barr, and Mine Cetinkaya-Rundel. 2012. *OpenIntro Statistics.* CreateSpace.\\
+R4DS & Wickham, Hadley and Garrett Grolemund. 2016. *R for data science: import, tidy, transform, visualize, and model data*. Sebastopol, CA: O'Reilly Media, Inc.\\
+SSDS & Prener, Christopher. 2018. *Sociospatial Data Science.*\\
+Wheelan & Wheelan, Charles. 2013. *Naked statistics: Stripping the dread from the data.* New York, NY: WW Norton \& Company.\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ## Course Preview {-}
 
@@ -424,7 +430,7 @@ Wheelan        Wheelan, Charles. 2013. *Naked statistics: Stripping the dread fr
 
 * **Data Visualization:** Creating Scatterplots
 * **Data Analysis:** Pearson's $r$ in `R`; Power Analyses for Correlations
-* **Quantitative Research:** $\LaTeX$ Equations
+* **Quantitative Research:** LaTeX Equations
 
 ### Readings {-}
 
@@ -445,7 +451,7 @@ Wheelan        Wheelan, Charles. 2013. *Naked statistics: Stripping the dread fr
 * *For This Lecture:* 
     - Lab 10 - Pearson's $r$ in `R`
     - Problem Set 05 - Correlations and Scatterplots
-* *For Next Lecture:* Lecture Prep 11 - The Regression Equation in $\LaTeX$
+* *For Next Lecture:* Lecture Prep 11 - The Regression Equation in LaTeX
 
 ## Lecture-12: OLS Regression (Part 1) {-}
 
@@ -458,7 +464,7 @@ Wheelan        Wheelan, Charles. 2013. *Naked statistics: Stripping the dread fr
 
 * **Inferential Statistics:** Regression Theory and Bivarite Regression
 * **Data Analysis:** Bivariate Regression in `R`
-* **Quantitative Research:** Regression Equations in $\LaTeX$
+* **Quantitative Research:** Regression Equations in LaTeX
 
 ### Readings {-}
 
@@ -475,7 +481,7 @@ Wheelan        Wheelan, Charles. 2013. *Naked statistics: Stripping the dread fr
     - Lab 10 - Pearson's $r$ in `R`
     - Problem Set 05 - Correlations and Scatterplots
 * *From Final Project:* Peer reviews due to group members as a GitHub issue in each student’s final project repository
-* *For This Lecture:* Lecture Prep 11 - The Regression Equation in $\LaTeX$
+* *For This Lecture:* Lecture Prep 11 - The Regression Equation in LaTeX
 
 #### Due Before Class, *SOC 5050 only* {-}
 
@@ -486,7 +492,7 @@ Wheelan        Wheelan, Charles. 2013. *Naked statistics: Stripping the dread fr
 * *For This Lecture:* 
     - Lab 11 - Bivariate Regression in `R`
     - Problem Set 06 - Bivariate Regression in `R`
-* *For Next Lecture:* Lecture Prep 12 - Citations with `knitr` and $\LaTeX$
+* *For Next Lecture:* Lecture Prep 12 - Citations with `knitr` and LaTeX
 
 ## Lecture-13: OLS Regression (Part 2) {-}
 
@@ -499,7 +505,7 @@ Wheelan        Wheelan, Charles. 2013. *Naked statistics: Stripping the dread fr
 
 * **Inferential Statistics:** Multivariate Regression Theory
 * **Data Analysis:** Multivariate Regression in `R`
-* **Quantitative Research:** Citing Sources with `knitr` and $\LaTeX$
+* **Quantitative Research:** Citing Sources with `knitr` and LaTeX
 
 ### Readings {-}
 
@@ -515,7 +521,7 @@ Wheelan        Wheelan, Charles. 2013. *Naked statistics: Stripping the dread fr
 * *From Prior Lecture:* 
     - Lab 11 - Bivariate Regression in `R`
     - Problem Set 06 - Bivariate Regression in `R`
-* *For This Lecture:* Lecture Prep 12 - Citations with `knitr` and $\LaTeX$
+* *For This Lecture:* Lecture Prep 12 - Citations with `knitr` and LaTeX
 
 #### Due Before Class, *SOC 5050 only* {-}
 

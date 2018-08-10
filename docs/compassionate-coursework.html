@@ -70,6 +70,7 @@
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#course-meetings"><i class="fa fa-check"></i>Course Meetings</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#course-website"><i class="fa fa-check"></i>Course Website</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#chriss-information"><i class="fa fa-check"></i>Chris’s Information</a></li>
+<li class="chapter" data-level="" data-path="hardcopy-syllabus.html"><a href="hardcopy-syllabus.html"><i class="fa fa-check"></i>Hardcopy Syllabus</a></li>
 <li class="chapter" data-level="" data-path="license.html"><a href="license.html"><i class="fa fa-check"></i>License</a></li>
 </ul></li>
 <li class="part"><span><b>I Syllabus</b></span></li>
@@ -320,6 +321,19 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:" && /^https?:/.test(src))
+      src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>

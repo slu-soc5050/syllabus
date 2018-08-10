@@ -13,9 +13,11 @@ description: "This is the syllabus and reading list for Chris's sections of SOC 
 
 # Basics {-}
 
-<div class="rmdwarning">
-<p>This is the <strong>draft</strong> syllabus for <strong>Fall 2018</strong>. Changes should expected before the release of the syllabus prior to the first day of class. This will occur in mid August.</p>
-</div>
+\begin{rmdwarning}
+This is the \textbf{draft} syllabus for \textbf{Fall 2018}. Changes
+should expected before the release of the syllabus prior to the first
+day of class. This will occur in mid August.
+\end{rmdwarning}
 
 ### Course Meetings {-}
 
@@ -43,6 +45,9 @@ description: "This is the syllabus and reading list for Chris's sections of SOC 
 
 -   Wednesdays, 10:00am to 12:00pm in 3600 Morrissey (GeoSRI Lab)
 
+
+## Hardcopy Syllabus {-}
+If you would like to keep a record of the syllabus, there is a `.pdf` download button (<i class="fa fa-file-pdf-o"></i>) in the top toolboar. This document will contain...
 
 ## License {-}
 Copyright © 2016-2018 [Christopher G. Prener](https://chris-prener.github.io)

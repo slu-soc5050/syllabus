@@ -151,7 +151,7 @@ points <- data.frame(
 
 knitr::kable(
   points, booktabs = TRUE,
-  caption = "SOC 4015 & 5050 Points Breakdown"
+  caption = "SOC 4015 and 5050 Points Breakdown"
 )
 ```
 

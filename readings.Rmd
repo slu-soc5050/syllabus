@@ -13,7 +13,7 @@ readings <- data.frame(
 
 knitr::kable(
   readings, booktabs = TRUE,
-  caption = "SOC 4015 & 5050 Primary Readings"
+  caption = "SOC 4015 and 5050 Primary Readings"
 )
 ```
 
@@ -427,7 +427,7 @@ knitr::kable(
 
 * **Data Visualization:** Creating Scatterplots
 * **Data Analysis:** Pearson's $r$ in `R`; Power Analyses for Correlations
-* **Quantitative Research:** $\LaTeX$ Equations
+* **Quantitative Research:** LaTeX Equations
 
 ### Readings {-}
 
@@ -448,7 +448,7 @@ knitr::kable(
 * *For This Lecture:* 
     - Lab 10 - Pearson's $r$ in `R`
     - Problem Set 05 - Correlations and Scatterplots
-* *For Next Lecture:* Lecture Prep 11 - The Regression Equation in $\LaTeX$
+* *For Next Lecture:* Lecture Prep 11 - The Regression Equation in LaTeX
 
 ## Lecture-12: OLS Regression (Part 1) {-}
 
@@ -461,7 +461,7 @@ knitr::kable(
 
 * **Inferential Statistics:** Regression Theory and Bivarite Regression
 * **Data Analysis:** Bivariate Regression in `R`
-* **Quantitative Research:** Regression Equations in $\LaTeX$
+* **Quantitative Research:** Regression Equations in LaTeX
 
 ### Readings {-}
 
@@ -478,7 +478,7 @@ knitr::kable(
     - Lab 10 - Pearson's $r$ in `R`
     - Problem Set 05 - Correlations and Scatterplots
 * *From Final Project:* Peer reviews due to group members as a GitHub issue in each student’s final project repository
-* *For This Lecture:* Lecture Prep 11 - The Regression Equation in $\LaTeX$
+* *For This Lecture:* Lecture Prep 11 - The Regression Equation in LaTeX
 
 #### Due Before Class, *SOC 5050 only* {-}
 
@@ -489,7 +489,7 @@ knitr::kable(
 * *For This Lecture:* 
     - Lab 11 - Bivariate Regression in `R`
     - Problem Set 06 - Bivariate Regression in `R`
-* *For Next Lecture:* Lecture Prep 12 - Citations with `knitr` and $\LaTeX$
+* *For Next Lecture:* Lecture Prep 12 - Citations with `knitr` and LaTeX
 
 ## Lecture-13: OLS Regression (Part 2) {-}
 
@@ -502,7 +502,7 @@ knitr::kable(
 
 * **Inferential Statistics:** Multivariate Regression Theory
 * **Data Analysis:** Multivariate Regression in `R`
-* **Quantitative Research:** Citing Sources with `knitr` and $\LaTeX$
+* **Quantitative Research:** Citing Sources with `knitr` and LaTeX
 
 ### Readings {-}
 
@@ -518,7 +518,7 @@ knitr::kable(
 * *From Prior Lecture:* 
     - Lab 11 - Bivariate Regression in `R`
     - Problem Set 06 - Bivariate Regression in `R`
-* *For This Lecture:* Lecture Prep 12 - Citations with `knitr` and $\LaTeX$
+* *For This Lecture:* Lecture Prep 12 - Citations with `knitr` and LaTeX
 
 #### Due Before Class, *SOC 5050 only* {-}
 
