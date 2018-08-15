@@ -45,8 +45,8 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 
 ## Change Log {-}
 
-August 10, 2018 - Fall 2018 release
-August 15, 2018 - Fix typo in learning outcome #4
+* August 10, 2018 - Fall 2018 release
+* August 15, 2018 - Fix typo in learning outcome #4
 
 ## License {-}
 Copyright © 2016-2018 [Christopher G. Prener](https://chris-prener.github.io)
