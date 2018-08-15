@@ -1,7 +1,7 @@
 ---
 title: "SOC 4015 & 5050: Quantitative Analysis"
 author: "Christopher Prener, Ph.D."
-date: "2018-08-10"
+date: "2018-08-15"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -46,6 +46,7 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 ## Change Log {-}
 
 August 10, 2018 - Fall 2018 release
+August 15, 2018 - Fix typo in learning outcome #4
 
 ## License {-}
 Copyright © 2016-2018 [Christopher G. Prener](https://chris-prener.github.io)

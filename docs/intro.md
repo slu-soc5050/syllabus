@@ -27,7 +27,7 @@ course, students will be able to:
 
 3.  *Fundamentals of data visualization*: Create and present publication quality plots programmatically using `R` and `ggplot2`.
 
-4.  *Quantitative research synthesis*: Plan, implement (using `R`), and present (using `knitr` as well as the word pressing and presentation applications of your choice) a research project that uses linear regression to answer a research question.
+4.  *Quantitative research synthesis*: Plan, implement (using `R`), and present (using `knitr` as well as the word processing and presentation applications of your choice) a research project that uses linear regression to answer a research question.
     
 ## Core Resources
 
@@ -55,9 +55,12 @@ All readings are listed on the **Reading List** and should be completed before t
 ## Services
 Over the course of the semester, we'll use three web-based services. Each of these will require you to create an account with a username and password. GitHub will require you to enable [two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) as well, and you should also enable this for Slack. I strongly recommend using a [password manager](https://lifehacker.com/5529133/five-best-password-managers).
 
-<div class="rmdwarning">
-<p>All of these services have free tiers as well as premium features that require a monthly subscription. None of these premium features are required for this course - what you can access for free is all the functionality you will need!</p>
-</div>
+\begin{rmdwarning}
+All of these services have free tiers as well as premium features that
+require a monthly subscription. None of these premium features are
+required for this course - what you can access for free is all the
+functionality you will need!
+\end{rmdwarning}
 
 ### GitHub
 
@@ -81,4 +84,4 @@ You will need to decide whether you want to install `R` and RStudio locally on a
 You will need another free application called [GitHub Desktop](https://desktop.github.com). This program allows you to easily copy data from GitHub onto your computer. It also makes it easy to upload files like labs and problem sets to GitHub. If you have already used Git via the command line, you can continue to do so without utilizing GitHub Desktop. 
 
 ### Additional Software
-You will need to use some type of word processing and presentation software. We'll use some specific `R` packages to produce output in Microsoft Word and Powerpoint formats, but these can be readily used with other programs (like Apple's iWork suite) without actually having Microsoft Office installed on your computer. Resources will also be made available for students who wish to use `R` and LaTeX together to produce research deliverables based on plain text files.
+You will need to use some type of word processing and presentation software. We'll use some specific `R` packages to produce output in Microsoft Word and PowerPoint formats, but these can be readily used with other programs (like Apple's iWork suite) without actually having Microsoft Office installed on your computer. Resources will also be made available for students who wish to use `R` and LaTeX together to produce research deliverables based on plain text files.

@@ -25,7 +25,7 @@
 <meta name="author" content="Christopher Prener, Ph.D.">
 
 
-<meta name="date" content="2018-08-10">
+<meta name="date" content="2018-08-15">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -250,7 +250,7 @@
 </div>
 <div id="additional-software" class="section level3">
 <h3><span class="header-section-number">1.6.3</span> Additional Software</h3>
-<p>You will need to use some type of word processing and presentation software. We’ll use some specific <code>R</code> packages to produce output in Microsoft Word and Powerpoint formats, but these can be readily used with other programs (like Apple’s iWork suite) without actually having Microsoft Office installed on your computer. Resources will also be made available for students who wish to use <code>R</code> and LaTeX together to produce research deliverables based on plain text files.</p>
+<p>You will need to use some type of word processing and presentation software. We’ll use some specific <code>R</code> packages to produce output in Microsoft Word and PowerPoint formats, but these can be readily used with other programs (like Apple’s iWork suite) without actually having Microsoft Office installed on your computer. Resources will also be made available for students who wish to use <code>R</code> and LaTeX together to produce research deliverables based on plain text files.</p>
 
 </div>
 </div>
@@ -300,6 +300,19 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:" && /^https?:/.test(src))
+      src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>
