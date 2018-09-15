@@ -55,12 +55,9 @@ All readings are listed on the **Reading List** and should be completed before t
 ## Services
 Over the course of the semester, we'll use three web-based services. Each of these will require you to create an account with a username and password. GitHub will require you to enable [two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) as well, and you should also enable this for Slack. I strongly recommend using a [password manager](https://lifehacker.com/5529133/five-best-password-managers).
 
-\begin{rmdwarning}
-All of these services have free tiers as well as premium features that
-require a monthly subscription. None of these premium features are
-required for this course - what you can access for free is all the
-functionality you will need!
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>All of these services have free tiers as well as premium features that require a monthly subscription. None of these premium features are required for this course - what you can access for free is all the functionality you will need!</p>
+</div>
 
 ### GitHub
 

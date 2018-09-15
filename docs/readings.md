@@ -4,21 +4,15 @@ Select a lecture from the menu to see details about topics, readings, and assign
 
 The primary readings will be referred to with an abbreviation each time they appear in the reading list:
 
-\begin{table}
 
-\caption{(\#tab:unnamed-chunk-1)SOC 4015 and 5050 Primary Readings}
-\centering
-\begin{tabular}[t]{ll}
-\toprule
-Abbreviation & Citation\\
-\midrule
-OpenIntro & Diez, David M., Christopher D. Barr, and Mine Cetinkaya-Rundel. 2012. *OpenIntro Statistics.* CreateSpace.\\
-R4DS & Wickham, Hadley and Garrett Grolemund. 2016. *R for data science: import, tidy, transform, visualize, and model data*. Sebastopol, CA: O'Reilly Media, Inc.\\
-SSDS & Prener, Christopher. 2018. *Sociospatial Data Science.*\\
-Wheelan & Wheelan, Charles. 2013. *Naked statistics: Stripping the dread from the data.* New York, NY: WW Norton \& Company.\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-1)SOC 4015 and 5050 Primary Readings
+
+Abbreviation   Citation                                                                                                                                                    
+-------------  ------------------------------------------------------------------------------------------------------------------------------------------------------------
+OpenIntro      Diez, David M., Christopher D. Barr, and Mine Cetinkaya-Rundel. 2012. *OpenIntro Statistics.* CreateSpace.                                                  
+R4DS           Wickham, Hadley and Garrett Grolemund. 2016. *R for data science: import, tidy, transform, visualize, and model data*. Sebastopol, CA: O'Reilly Media, Inc. 
+SSDS           Prener, Christopher. 2018. *Sociospatial Data Science.*                                                                                                     
+Wheelan        Wheelan, Charles. 2013. *Naked statistics: Stripping the dread from the data.* New York, NY: WW Norton & Company.                                           
 
 ## Course Preview {-}
 
@@ -74,7 +68,7 @@ Wheelan & Wheelan, Charles. 2013. *Naked statistics: Stripping the dread from th
 
 #### Required {-}
 
-* OpenIntro: Chapter 1, pages 7-26 (<a href="http://eres.slu.edu/eres/coursepage.aspx?cid=4487" target="_blank">ER</a>)
+* OpenIntro: Chapter 1, pages 7-26 (<a href="http://eres.slu.edu/eres/coursepage.aspx?cid=4487" target="_blank">Electronic Reserves</a>)
 * R4DS:
     - *Print* - Preface ***or***
     - *Web* - Chapter 1 (<a href="http://r4ds.had.co.nz" target="_blank">Link</a>)
@@ -190,7 +184,7 @@ Wheelan & Wheelan, Charles. 2013. *Naked statistics: Stripping the dread from th
 #### Required {-}
 
 * OpenIntro: Chapter 2, pages 76-102 
-* Silver, S. (2012). Less and Less and Less Wrong. In *The Signal and the Noise* (pp. 232-261). New York, NY: Penguin Books.
+* Silver, S. (2012). Less and Less and Less Wrong. In *The Signal and the Noise* (pp. 232-261). New York, NY: Penguin Books. (<a href="http://eres.slu.edu/eres/coursepage.aspx?cid=4487" target="_blank">Electronic Reserves</a>)
 * Wheelan: Chapters 5, 5.5, and 6
 
 ### Assignments {-}

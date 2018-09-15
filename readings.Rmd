@@ -71,7 +71,7 @@ knitr::kable(
 
 #### Required {-}
 
-* OpenIntro: Chapter 1, pages 7-26 (<a href="http://eres.slu.edu/eres/coursepage.aspx?cid=4487" target="_blank">ER</a>)
+* OpenIntro: Chapter 1, pages 7-26 (<a href="http://eres.slu.edu/eres/coursepage.aspx?cid=4487" target="_blank">Electronic Reserves</a>)
 * R4DS:
     - *Print* - Preface ***or***
     - *Web* - Chapter 1 (<a href="http://r4ds.had.co.nz" target="_blank">Link</a>)
@@ -187,7 +187,7 @@ knitr::kable(
 #### Required {-}
 
 * OpenIntro: Chapter 2, pages 76-102 
-* Silver, S. (2012). Less and Less and Less Wrong. In *The Signal and the Noise* (pp. 232-261). New York, NY: Penguin Books.
+* Silver, S. (2012). Less and Less and Less Wrong. In *The Signal and the Noise* (pp. 232-261). New York, NY: Penguin Books. (<a href="http://eres.slu.edu/eres/coursepage.aspx?cid=4487" target="_blank">Electronic Reserves</a>)
 * Wheelan: Chapters 5, 5.5, and 6
 
 ### Assignments {-}
